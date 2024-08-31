@@ -1,4 +1,4 @@
-{{-- @extends('layouts.app') --}}
+@extends('layouts.app')
 @include('layouts.header')
 @section('content')
 <div class="main-wrapper login-body">
